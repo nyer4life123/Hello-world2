@@ -9,9 +9,9 @@
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
  <scm>
-        <connection>scm:git:git@github.com/nyer4life123/Hello-world2.git</connection>
-        <url>git@github.com/nyer4life123/Hello-world2.git</url>
-        <developerConnection>scm:git:git@github.com/nyer4life123/Hello-world2.git</developerConnection>
+        <connection>scm:git:git@github.com:nyer4life123/Hello-world2.git</connection>
+        <url>git@github.com:nyer4life123/Hello-world2.git</url>
+        <developerConnection>scm:git:git@github.com:nyer4life123/Hello-world2.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 	<build>
