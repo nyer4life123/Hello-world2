@@ -8,7 +8,12 @@
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
-
+ <scm>
+        <connection>scm:git:https://github.com/nyer4life123/Hello-world2.git</connection>
+        <url>https://github.com/nyer4life123/Hello-world2.git</url>
+        <developerConnection>scm:git:https://github.com/nyer4life123/Hello-world2.git</developerConnection>
+        <tag>v1.5</tag>
+    </scm>
 	<build>
 		<plugins>
 			<plugin>
