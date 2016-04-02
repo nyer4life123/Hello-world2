@@ -30,7 +30,7 @@
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
-      <url>http://em51vm02.emedia.cv.net:8081/nexus/content/repositories/releases/</url>
+      <url>http://em51vm02.emedia.cv.net:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
