@@ -2,13 +2,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.nyer4life123</groupId>
 	<artifactId>hello-world-war</artifactId>
-<<<<<<< HEAD
 <!--	<version>3.0.0</version> blah -->
 	<version>1.20-SNAPSHOT</version>
-=======
-<!--	<version>3.0.0</version> -->
-	<version>1.20</version>
->>>>>>> 10d5470660b30ad22ef474d7644051b4d9f9ee1d
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
