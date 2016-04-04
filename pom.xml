@@ -45,9 +45,6 @@
        <configuration>
          <group>Applications/Internet</group>
          <copyright>EPL</copyright>
-         <requires>
-           <require>tomcat8</require>
-         </requires>
          <mappings>
            <mapping>
              <directory>/cust/tomcat/webapps/${project.build.finalName}</directory>
