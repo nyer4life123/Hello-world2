@@ -3,7 +3,7 @@
 	<groupId>com.nyer4life123</groupId>
 	<artifactId>hello-world-war</artifactId>
 <!--	<version>3.0.0</version> blah -->
-	<version>1.24</version>
+	<version>1.25-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
