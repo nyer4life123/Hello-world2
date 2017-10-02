@@ -5,10 +5,8 @@ pipeline {
       steps {
         build 'helloworld'
         echo 'Build COmpleted'
-        waitUntil() {
-          sh 'Hello world'
-        }
-        
+        waitUntil()
+        sh 'echo "Hellow ORlds"'
       }
     }
   }
