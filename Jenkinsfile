@@ -5,7 +5,6 @@ pipeline {
       steps {
         build 'helloworld'
         echo 'Build COmpleted'
-        waitUntil()
         sh 'echo "Hellow ORlds"'
       }
     }
