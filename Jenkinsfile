@@ -5,7 +5,8 @@ pipeline {
       steps {
         build 'helloworld'
         echo 'Build COmpleted'
-        sh 'echo "Hellow ORlds"'
+        sh 'echo "Helloworlds"'
+		echo 'Everything is compelted'
       }
     }
   }
