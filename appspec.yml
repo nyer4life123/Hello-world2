@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: hello-world.war
+  - source: target/hello-world.war
     destination: /opt/tomcat/webapps/
 hooks:
   ApplicationStop:
