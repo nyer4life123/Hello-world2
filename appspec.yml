@@ -6,9 +6,9 @@ files:
 
 hooks:
   ApplicationStop:
-    - location: stop_application
+    - location: scripts/stop_application
       timeout: 300
 
   ApplicationStart:
-    - location: start_application
+    - location: scripts/start_application
       timeout: 300
