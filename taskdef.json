@@ -1,9 +1,9 @@
 {
-    "family": "docker-ecs",
+    "family": "docker-ecs-tomcat",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:%BUILD_NUMBER%",
-            "name": "docker-ecs",
+            "name": "docker-ecs-tomcat",
             "cpu": 10,
             "memory": 256,
             "essential": true,
