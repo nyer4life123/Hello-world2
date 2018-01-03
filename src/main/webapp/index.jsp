@@ -10,6 +10,6 @@
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
-<h1>VERSION 1.30</h1>
+<h1>ECS VERSION 2.0!!!</h1>
 <img src="version.gif" alt="version">
 </body>
